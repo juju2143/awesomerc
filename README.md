@@ -22,3 +22,8 @@ Theme credits
 -------------
 - http://zantyarz.deviantart.com/art/Neon-Princess-Luna-Wallpaper-320159954
 - http://alanfernandoflores01.deviantart.com/art/Pinkie-Pie-Wallpaper-280814968
+
+Screenshots
+-----------
+- http://www.omnimaga.org/general-discussion/post-your-desktop/msg390564/#msg390564 (Princess Luna)
+- http://www.omnimaga.org/general-discussion/post-your-desktop/msg394514/#msg394514 (Pinkie Pie)
