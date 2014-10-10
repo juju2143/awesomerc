@@ -292,7 +292,7 @@ end
 
 local quakeconsole = {}
 for s = 1, screen.count() do
-   quakeconsole[s] = quake({ terminal = config.terminal,
+   quakeconsole[s] = quake({ terminal = terminal,
 			     height = 0.3,
 			     screen = s })
 end

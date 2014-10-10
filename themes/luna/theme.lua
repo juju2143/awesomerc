@@ -2,6 +2,9 @@
 -- Default awesome theme --
 ---------------------------
 
+local awful = require("awful")
+awful.util = require("awful.util")
+
 theme = {}
 
 theme.font          = "silkscreen 6"
@@ -73,7 +76,7 @@ theme.titlebar_maximized_button_focus_inactive  = "/usr/share/awesome/themes/def
 theme.titlebar_maximized_button_normal_active = "/usr/share/awesome/themes/default/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = "/usr/share/awesome/themes/default/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = "neon_princess_luna_wallpaper_by_ultimateultimate-d5am502.png"
+theme.wallpaper = awful.util.getdir("config").."/themes/luna/neon_princess_luna_wallpaper_by_ultimateultimate-d5am502.png"
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = "/usr/share/awesome/themes/default/layouts/fairhw.png"

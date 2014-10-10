@@ -2,11 +2,11 @@ Juju's awesomewm configuration
 ==============================
 
 This repo contains my rc.lua along with two of the themes I made, namely 
-Princess Luna and Pinkie Pie (based on arch theme). Includes a 
-conky-style status bar, a quake-style terminal accessible with Mod4-Z 
-and quite a few other enhancements. Made for Arch Linux, but I guess it 
-works for any distro. Feel free to modify it to match your config and 
-your likings!
+Princess Luna (based on default theme) and Pinkie Pie (based on arch 
+theme). Includes a conky-style status bar, a quake-style terminal 
+accessible with Mod4-Z and quite a few other enhancements. Made for Arch 
+Linux, but I guess it works for any distro. Feel free to modify it to 
+match your config and your likings!
 
 Dependencies and requirements
 -----------------------------
